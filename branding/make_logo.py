@@ -67,10 +67,13 @@ BULLETS = [(3, 2), (8, 1), (23, 1), (28, 2), (1, 7), (30, 7), (5, 10), (26, 10),
            (2, 15), (29, 15), (6, 26), (25, 26), (3, 30), (28, 30), (10, 29), (21, 29)]
 BG_TOP, BG_BOT = (36, 14, 70), (8, 6, 24)
 BULLET, BULLET_CORE = (255, 90, 190), (255, 230, 250)
+SHIFT = 3
+LASER_CORE, LASER_GLOW, LASER_EDGE = (245, 252, 255), (110, 200, 255), (40, 90, 220)
 
 
 def draw():
     rows = [r for r in SHIP.strip("\n").split("\n")]
+    rows = ["." * 16] * SHIFT + rows[:32 - SHIFT]  # move the ship down to lengthen the beam
     assert len(rows) == 32 and all(len(r) == 16 for r in rows), "ship grid must be 32x16"
     img = Image.new("RGB", (32, 32))
     for y in range(32):
@@ -83,10 +86,17 @@ def draw():
         for dx, dy in ((1, 0), (-1, 0), (0, 1), (0, -1)):
             if 0 <= x + dx < 32 and 0 <= y + dy < 32:
                 img.putpixel((x + dx, y + dy), BULLET)
+    # Laser from the nose to the top edge: white core, blue glow, flare at the muzzle.
+    for y in range(0, 4 + SHIFT):
+        for x, col in ((13, LASER_EDGE), (14, LASER_GLOW), (15, LASER_CORE),
+                       (16, LASER_CORE), (17, LASER_GLOW), (18, LASER_EDGE)):
+            img.putpixel((x, y), col)
     for y, row in enumerate(rows):
         for x, ch in enumerate(row + row[::-1]):
             if PAL[ch]:
                 img.putpixel((x, y), PAL[ch])
+    for x, y in ((14, 3 + SHIFT), (15, 3 + SHIFT), (16, 3 + SHIFT), (17, 3 + SHIFT), (12, 3 + SHIFT), (19, 3 + SHIFT)):
+        img.putpixel((x, y), LASER_CORE if 14 <= x <= 17 else LASER_GLOW)
     img.save(HERE / "logo_32.png")
     img.resize((512, 512), Image.NEAREST).save(HERE / "logo_512.png")
 
