@@ -1,0 +1,11 @@
+{
+  "_comment": "One entry per core repo. 'commit' pins every file URL, so bump it when the core's releases/ folder changes. 'local' is the working copy used to hash the files at that commit.",
+  "cores": [
+    {
+      "name": "Dooyong",
+      "repo": "shmupfan/Arcade-Dooyong_MiSTer",
+      "local": "../dooyong-mister",
+      "commit": "4bc38a4ad419"
+    }
+  ]
+}
