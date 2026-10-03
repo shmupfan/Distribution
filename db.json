@@ -1,7 +1,17 @@
 {
   "db_id": "shmupfan",
-  "timestamp": 1790970855,
+  "timestamp": 1791069352,
   "files": {
+    "_Arcade/'96 Flag Rally.mra": {
+      "hash": "9411f54202f9aba341eb5e907595519f",
+      "size": 2651,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-1945kIII_MiSTer/293a11661d59db4a0bd921496972457e82febd84/releases/%2796%20Flag%20Rally.mra"
+    },
+    "_Arcade/1945k III (newer, OPCX2 PCB).mra": {
+      "hash": "716b9a3f140b3003037ba25f421a6176",
+      "size": 1785,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-1945kIII_MiSTer/293a11661d59db4a0bd921496972457e82febd84/releases/1945k%20III%20%28newer%2C%20OPCX2%20PCB%29.mra"
+    },
     "_Arcade/Blue Hawk.mra": {
       "hash": "ee1717c602c5ac849be38d6bdee21ae4",
       "size": 2348,
@@ -42,6 +52,11 @@
       "size": 2757,
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/4bc38a4ad41918ba1b74ffece85cb10de0fc1b3c/releases/Sadari%20%28Japan%2C%20NTC%20license%29.mra"
     },
+    "_Arcade/Solite Spirits.mra": {
+      "hash": "768c9b341c0ba85b3e95745d8c6f23b7",
+      "size": 2558,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-1945kIII_MiSTer/293a11661d59db4a0bd921496972457e82febd84/releases/Solite%20Spirits.mra"
+    },
     "_Arcade/Super-X (NTC).mra": {
       "hash": "6e0f8a6a4d2156276be8c65262a5f89e",
       "size": 2716,
@@ -51,6 +66,21 @@
       "hash": "98e49600a24719ef02193e6a3e3fd0e3",
       "size": 3231,
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/4bc38a4ad41918ba1b74ffece85cb10de0fc1b3c/releases/The%20Last%20Day%20%28set%201%29.mra"
+    },
+    "_Arcade/_alternatives/_1945k III/1945k III (Promat license, OPCX1 PCB).mra": {
+      "hash": "a17f84e2628ec5e93949d5a1cfe901a7",
+      "size": 2514,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-1945kIII_MiSTer/293a11661d59db4a0bd921496972457e82febd84/releases/_alternatives/_1945k%20III/1945k%20III%20%28Promat%20license%2C%20OPCX1%20PCB%29.mra"
+    },
+    "_Arcade/_alternatives/_1945k III/1945k III (newer, OPCX1 PCB).mra": {
+      "hash": "0dab612204c1c830f04fa9fce1b18ccc",
+      "size": 2689,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-1945kIII_MiSTer/293a11661d59db4a0bd921496972457e82febd84/releases/_alternatives/_1945k%20III/1945k%20III%20%28newer%2C%20OPCX1%20PCB%29.mra"
+    },
+    "_Arcade/_alternatives/_1945k III/1945k III (older, OPCX1 PCB).mra": {
+      "hash": "d64d8dd78502aa198dfef6a38eeb18b7",
+      "size": 2607,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-1945kIII_MiSTer/293a11661d59db4a0bd921496972457e82febd84/releases/_alternatives/_1945k%20III/1945k%20III%20%28older%2C%20OPCX1%20PCB%29.mra"
     },
     "_Arcade/_alternatives/_Blue Hawk/Blue Hawk (Japan, NTC license, set 1).mra": {
       "hash": "ea2d923fe7e6a10b3dc6bbe22983da55",
@@ -127,6 +157,11 @@
       "size": 3250,
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/4bc38a4ad41918ba1b74ffece85cb10de0fc1b3c/releases/_alternatives/_The%20Last%20Day/The%20Last%20Day%20%28set%202%29.mra"
     },
+    "_Arcade/cores/1945kIII_20261004.rbf": {
+      "hash": "a19de473462e322cbdbd3a9d596bbc8d",
+      "size": 3103776,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-1945kIII_MiSTer/293a11661d59db4a0bd921496972457e82febd84/releases/Arcade-1945kIII_20261004.rbf"
+    },
     "_Arcade/cores/Dooyong_20260930.rbf": {
       "hash": "29d749eb7c4166184e12fde7f8eeccdf",
       "size": 4090932,
@@ -136,6 +171,7 @@
   "folders": {
     "_Arcade": {},
     "_Arcade/_alternatives": {},
+    "_Arcade/_alternatives/_1945k III": {},
     "_Arcade/_alternatives/_Blue Hawk": {},
     "_Arcade/_alternatives/_Flying Tiger": {},
     "_Arcade/_alternatives/_Gulf Storm": {},

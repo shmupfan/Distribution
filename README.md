@@ -22,6 +22,7 @@ README, in `games/mame/`.
 
 | Core | Games | Source |
 |---|---|---|
+| 1945kIII | 1945k III, Solite Spirits, '96 Flag Rally | [Arcade-1945kIII_MiSTer](https://github.com/shmupfan/Arcade-1945kIII_MiSTer) |
 | Dooyong | The Last Day, Gulf Storm, Pollux, Flying Tiger, Blue Hawk, Sadari, Gun Dealer '94, Super-X, R-Shark, Pop Bingo | [Arcade-Dooyong_MiSTer](https://github.com/shmupfan/Arcade-Dooyong_MiSTer) |
 
 ## Maintainers

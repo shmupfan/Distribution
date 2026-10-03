@@ -6,6 +6,12 @@
       "repo": "shmupfan/Arcade-Dooyong_MiSTer",
       "local": "../dooyong-mister",
       "commit": "4bc38a4ad419"
+    },
+    {
+      "name": "1945kIII",
+      "repo": "shmupfan/Arcade-1945kIII_MiSTer",
+      "local": "../1945kiii-mister",
+      "commit": "293a11661d59"
     }
   ]
 }
