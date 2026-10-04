@@ -5,7 +5,7 @@
       "name": "Dooyong",
       "repo": "shmupfan/Arcade-Dooyong_MiSTer",
       "local": "../dooyong-mister",
-      "commit": "f2319d2"
+      "commit": "38fec187f198"
     },
     {
       "name": "1945kIII",
@@ -17,13 +17,13 @@
       "name": "Tecmo16",
       "repo": "shmupfan/Arcade-Tecmo16_MiSTer",
       "local": "../tecmo16-mister",
-      "commit": "b44e737c3dd8"
+      "commit": "2ff261598d61"
     },
     {
       "name": "DEC8",
       "repo": "shmupfan/Arcade-DEC8_MiSTer",
       "local": "../dec8-mister",
-      "commit": "03fd4fa748fc"
+      "commit": "373e483423ef"
     }
   ]
 }
