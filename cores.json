@@ -12,6 +12,18 @@
       "repo": "shmupfan/Arcade-1945kIII_MiSTer",
       "local": "../1945kiii-mister",
       "commit": "293a11661d59"
+    },
+    {
+      "name": "Tecmo16",
+      "repo": "shmupfan/Arcade-Tecmo16_MiSTer",
+      "local": "../tecmo16-mister",
+      "commit": "b44e737c3dd8"
+    },
+    {
+      "name": "DEC8",
+      "repo": "shmupfan/Arcade-DEC8_MiSTer",
+      "local": "../dec8-mister",
+      "commit": "03fd4fa748fc"
     }
   ]
 }
