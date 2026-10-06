@@ -5,13 +5,13 @@
       "name": "Dooyong",
       "repo": "shmupfan/Arcade-Dooyong_MiSTer",
       "local": "../dooyong-mister",
-      "commit": "38fec187f198"
+      "commit": "8f261968bd4d"
     },
     {
       "name": "1945kIII",
       "repo": "shmupfan/Arcade-1945kIII_MiSTer",
       "local": "../1945kiii-mister",
-      "commit": "293a11661d59"
+      "commit": "09830097fe74"
     },
     {
       "name": "Tecmo16",
