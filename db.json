@@ -1,6 +1,6 @@
 {
   "db_id": "shmupfan",
-  "timestamp": 1791123838,
+  "timestamp": 1791277334,
   "files": {
     "_Arcade/'96 Flag Rally.mra": {
       "hash": "9411f54202f9aba341eb5e907595519f",
@@ -20,7 +20,7 @@
     "_Arcade/Final Star Force (US).mra": {
       "hash": "95346c8eafa7676bccfb896b51f75117",
       "size": 2321,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/2ff261598d614a8b29d478a5d56c6e7a5fc567e3/releases/Final%20Star%20Force%20%28US%29.mra"
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/449291ffea25c484bd995532704e7cbb257a5fcc/releases/Final%20Star%20Force%20%28US%29.mra"
     },
     "_Arcade/Flying Tiger (set 1).mra": {
       "hash": "25c15fe10febdcc2f1a5781c6cf0ed76",
@@ -30,7 +30,7 @@
     "_Arcade/Ganbare Ginkun.mra": {
       "hash": "ddf49d46571ca4229d630d6ff2738f6f",
       "size": 2303,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/2ff261598d614a8b29d478a5d56c6e7a5fc567e3/releases/Ganbare%20Ginkun.mra"
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/449291ffea25c484bd995532704e7cbb257a5fcc/releases/Ganbare%20Ginkun.mra"
     },
     "_Arcade/Gondomania (World).mra": {
       "hash": "dbf1f07320e446c5746c8b516fdd4d80",
@@ -70,7 +70,7 @@
     "_Arcade/Riot (NMK).mra": {
       "hash": "71393ece41f984e664fb0bacb2098521",
       "size": 2228,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/2ff261598d614a8b29d478a5d56c6e7a5fc567e3/releases/Riot%20%28NMK%29.mra"
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/449291ffea25c484bd995532704e7cbb257a5fcc/releases/Riot%20%28NMK%29.mra"
     },
     "_Arcade/SRD - Super Real Darwin (World).mra": {
       "hash": "e753908465373653ae42f9ef0c0ca0ba",
@@ -125,17 +125,17 @@
     "_Arcade/_alternatives/_Final Star Force/Final Star Force (Japan, set 1).mra": {
       "hash": "b3d71ea00a902e92d383c784acce8de9",
       "size": 2332,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/2ff261598d614a8b29d478a5d56c6e7a5fc567e3/releases/_alternatives/_Final%20Star%20Force/Final%20Star%20Force%20%28Japan%2C%20set%201%29.mra"
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/449291ffea25c484bd995532704e7cbb257a5fcc/releases/_alternatives/_Final%20Star%20Force/Final%20Star%20Force%20%28Japan%2C%20set%201%29.mra"
     },
     "_Arcade/_alternatives/_Final Star Force/Final Star Force (Japan, set 2).mra": {
       "hash": "b3638ba14d6b4574a96a895e611ec211",
       "size": 2348,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/2ff261598d614a8b29d478a5d56c6e7a5fc567e3/releases/_alternatives/_Final%20Star%20Force/Final%20Star%20Force%20%28Japan%2C%20set%202%29.mra"
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/449291ffea25c484bd995532704e7cbb257a5fcc/releases/_alternatives/_Final%20Star%20Force/Final%20Star%20Force%20%28Japan%2C%20set%202%29.mra"
     },
     "_Arcade/_alternatives/_Final Star Force/Final Star Force (World-).mra": {
       "hash": "e215b1ec57c0429b31f13f9601d5fe53",
       "size": 2326,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/2ff261598d614a8b29d478a5d56c6e7a5fc567e3/releases/_alternatives/_Final%20Star%20Force/Final%20Star%20Force%20%28World-%29.mra"
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/449291ffea25c484bd995532704e7cbb257a5fcc/releases/_alternatives/_Final%20Star%20Force/Final%20Star%20Force%20%28World-%29.mra"
     },
     "_Arcade/_alternatives/_Flying Tiger/Flying Tiger (set 2).mra": {
       "hash": "18c38e99b9d3949b3a546d7099a8dd17",
@@ -215,7 +215,7 @@
     "_Arcade/_alternatives/_Riot/Riot (Woong Bi).mra": {
       "hash": "45cdbaabc80bebd61754732ad3b12e20",
       "size": 2259,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/2ff261598d614a8b29d478a5d56c6e7a5fc567e3/releases/_alternatives/_Riot/Riot%20%28Woong%20Bi%29.mra"
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/449291ffea25c484bd995532704e7cbb257a5fcc/releases/_alternatives/_Riot/Riot%20%28Woong%20Bi%29.mra"
     },
     "_Arcade/_alternatives/_SRD Super Real Darwin/SRD - Super Real Darwin (Japan).mra": {
       "hash": "5c0b2feaf2f2df103ff4ffbcfa48c947",
@@ -257,10 +257,10 @@
       "size": 4075736,
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/38fec187f1986530eb494cef9dfae697969020a2/releases/Arcade-Dooyong_20261004.rbf"
     },
-    "_Arcade/cores/Tecmo16_20261004.rbf": {
-      "hash": "11ec0adf355dfe3297811e62d2c5d290",
-      "size": 3193876,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/2ff261598d614a8b29d478a5d56c6e7a5fc567e3/releases/Arcade-Tecmo16_20261004.rbf"
+    "_Arcade/cores/Tecmo16_20261006.rbf": {
+      "hash": "6509126f54bfe21b4589c16487cd295f",
+      "size": 3182208,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/449291ffea25c484bd995532704e7cbb257a5fcc/releases/Arcade-Tecmo16_20261006.rbf"
     }
   },
   "folders": {
