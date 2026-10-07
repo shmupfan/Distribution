@@ -24,6 +24,12 @@
       "repo": "shmupfan/Arcade-DEC8_MiSTer",
       "local": "../dec8-mister",
       "commit": "373e483423ef"
+    },
+    {
+      "name": "TaitoGNET",
+      "repo": "shmupfan/Arcade-TaitoGNET_MiSTer",
+      "local": "../gnet-release",
+      "commit": "5456b9f550df"
     }
   ]
 }
