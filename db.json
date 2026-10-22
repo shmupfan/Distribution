@@ -1,6 +1,6 @@
 {
   "db_id": "shmupfan",
-  "timestamp": 1792095302,
+  "timestamp": 1792662931,
   "files": {
     "_Arcade/'96 Flag Rally.mra": {
       "hash": "9411f54202f9aba341eb5e907595519f",
@@ -18,9 +18,9 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/Blue%20Hawk.mra"
     },
     "_Arcade/Chaos Heat (V2.09O).mra": {
-      "hash": "f24ead8b6a96df6b3b426d05dde0e968",
-      "size": 1483,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Chaos%20Heat%20%28V2.09O%29.mra"
+      "hash": "b3a29833775dd5f41432d2aefc6db55a",
+      "size": 1527,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Chaos%20Heat%20%28V2.09O%29.mra"
     },
     "_Arcade/Final Star Force (US).mra": {
       "hash": "95346c8eafa7676bccfb896b51f75117",
@@ -28,9 +28,9 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/449291ffea25c484bd995532704e7cbb257a5fcc/releases/Final%20Star%20Force%20%28US%29.mra"
     },
     "_Arcade/Flip Maze (V2.04J).mra": {
-      "hash": "62520b8ffc29665ed9078f4e23dda3d2",
-      "size": 1468,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Flip%20Maze%20%28V2.04J%29.mra"
+      "hash": "1f6c5303619deac0fb40563db3fe15c5",
+      "size": 1512,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Flip%20Maze%20%28V2.04J%29.mra"
     },
     "_Arcade/Flying Tiger (set 1).mra": {
       "hash": "25c15fe10febdcc2f1a5781c6cf0ed76",
@@ -43,9 +43,9 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/449291ffea25c484bd995532704e7cbb257a5fcc/releases/Ganbare%20Ginkun.mra"
     },
     "_Arcade/Go By RC (V2.03O).mra": {
-      "hash": "b90e20b5848f0d794a903ccf1880f16a",
-      "size": 1459,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Go%20By%20RC%20%28V2.03O%29.mra"
+      "hash": "aa28da2cd2ac1a668992d715058e956d",
+      "size": 1503,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Go%20By%20RC%20%28V2.03O%29.mra"
     },
     "_Arcade/Gondomania (World).mra": {
       "hash": "dbf1f07320e446c5746c8b516fdd4d80",
@@ -63,9 +63,9 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/Gun%20Dealer%20%2794.mra"
     },
     "_Arcade/Kollon (V2.04JA).mra": {
-      "hash": "dddc47b6f565ee81c2a1d8be7f67fc6f",
-      "size": 1445,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Kollon%20%28V2.04JA%29.mra"
+      "hash": "c677cc54e4f5bb64ff7989d32d97db24",
+      "size": 1489,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Kollon%20%28V2.04JA%29.mra"
     },
     "_Arcade/Last Mission (World revision 8).mra": {
       "hash": "7aeb1961f0d144671c7377ba2d023a2b",
@@ -73,29 +73,29 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-DEC8_MiSTer/373e483423efaa0d37a751f9ff35dc4b549e6780/releases/Last%20Mission%20%28World%20revision%208%29.mra"
     },
     "_Arcade/Mahjong Oh (V2.06J).mra": {
-      "hash": "2707cec7a529ed4672019de420322852",
-      "size": 1586,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Mahjong%20Oh%20%28V2.06J%29.mra"
+      "hash": "2ff33bd052d9ba2c63033934b1cf4256",
+      "size": 1630,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Mahjong%20Oh%20%28V2.06J%29.mra"
     },
     "_Arcade/Night Raid (V2.03J).mra": {
-      "hash": "cd6f3636e4f25aee8c514707328c89d8",
-      "size": 1464,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Night%20Raid%20%28V2.03J%29.mra"
+      "hash": "ad7cce9da367d954303bd3d8af6d31a3",
+      "size": 1497,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Night%20Raid%20%28V2.03J%29.mra"
     },
     "_Arcade/Otenami Haiken (V2.04J).mra": {
-      "hash": "6abc4c53b9fc8aaae340ad50871a1e67",
-      "size": 1471,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Otenami%20Haiken%20%28V2.04J%29.mra"
+      "hash": "28c7ac72f7ed9c429ca9adf82f27fba2",
+      "size": 1515,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Otenami%20Haiken%20%28V2.04J%29.mra"
     },
     "_Arcade/Otenami Haiken Final (V2.07JC).mra": {
-      "hash": "e681eb027c3e85d9a325f72602da96be",
-      "size": 1488,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Otenami%20Haiken%20Final%20%28V2.07JC%29.mra"
+      "hash": "b5516e77ab9a330bdb178eb4e798265d",
+      "size": 1532,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Otenami%20Haiken%20Final%20%28V2.07JC%29.mra"
     },
     "_Arcade/Otenki Kororin (V2.01J).mra": {
-      "hash": "b64c646b5bb9c6064463171b4545425d",
-      "size": 1453,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Otenki%20Kororin%20%28V2.01J%29.mra"
+      "hash": "1bb3b03349260ea8b66e9c2433631957",
+      "size": 1497,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Otenki%20Kororin%20%28V2.01J%29.mra"
     },
     "_Arcade/Pollux (set 1).mra": {
       "hash": "ad6535e431dca9dc93789c8681db0361",
@@ -108,14 +108,14 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/Pop%20Bingo.mra"
     },
     "_Arcade/Psyvariar -Medium Unit- (V2.02O).mra": {
-      "hash": "87724cb5be15c4756acc25dd624a29e3",
-      "size": 1482,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Psyvariar%20-Medium%20Unit-%20%28V2.02O%29.mra"
+      "hash": "db83d1427e1f752ec63b1daaaa70a167",
+      "size": 1526,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Psyvariar%20-Medium%20Unit-%20%28V2.02O%29.mra"
     },
     "_Arcade/Psyvariar -Revision- (V2.04J).mra": {
-      "hash": "8074ee932a73a5db20e7d557b189a6af",
-      "size": 1479,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Psyvariar%20-Revision-%20%28V2.04J%29.mra"
+      "hash": "c60df39d0bf4b30c345f5b53518c94eb",
+      "size": 1523,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Psyvariar%20-Revision-%20%28V2.04J%29.mra"
     },
     "_Arcade/R-Shark (set 1).mra": {
       "hash": "8b11af708a2bc9ac755fb27f94e6600c",
@@ -123,9 +123,9 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/R-Shark%20%28set%201%29.mra"
     },
     "_Arcade/Ray Crisis (V2.03O).mra": {
-      "hash": "c6ffa24c760eea0b61e3f7fa83222353",
-      "size": 1456,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Ray%20Crisis%20%28V2.03O%29.mra"
+      "hash": "c5bad3d432c1f2dae323f004be8f53fb",
+      "size": 1500,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Ray%20Crisis%20%28V2.03O%29.mra"
     },
     "_Arcade/Riot (NMK).mra": {
       "hash": "71393ece41f984e664fb0bacb2098521",
@@ -143,19 +143,19 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/Sadari%20%28Japan%2C%20NTC%20license%29.mra"
     },
     "_Arcade/Shanghai Sangokuhai Tougi (Ver 2.01J).mra": {
-      "hash": "114c92fbe14f94d7f3249eb659d122d5",
-      "size": 1500,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Shanghai%20Sangokuhai%20Tougi%20%28Ver%202.01J%29.mra"
+      "hash": "be74a687cda34261e38800b7fdb53ca9",
+      "size": 1544,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Shanghai%20Sangokuhai%20Tougi%20%28Ver%202.01J%29.mra"
     },
     "_Arcade/Shanghai Shoryu Sairin (V2.03J).mra": {
-      "hash": "5dd4f3b397841b45f9d5a1003b0e4a44",
-      "size": 1476,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Shanghai%20Shoryu%20Sairin%20%28V2.03J%29.mra"
+      "hash": "02366592b6809239e3f68417d3324803",
+      "size": 1520,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Shanghai%20Shoryu%20Sairin%20%28V2.03J%29.mra"
     },
     "_Arcade/Shikigami no Shiro (V2.03J).mra": {
-      "hash": "1bba3e3a0adc66ef035f13f45bf95001",
-      "size": 1489,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Shikigami%20no%20Shiro%20%28V2.03J%29.mra"
+      "hash": "ed3eeb0b55e4e328c8dbb2392bcc2b22",
+      "size": 1533,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Shikigami%20no%20Shiro%20%28V2.03J%29.mra"
     },
     "_Arcade/Solite Spirits.mra": {
       "hash": "768c9b341c0ba85b3e95745d8c6f23b7",
@@ -163,19 +163,19 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-1945kIII_MiSTer/09830097fe748770614237fa485097d8f6a3f85e/releases/Solite%20Spirits.mra"
     },
     "_Arcade/Soutenryu (V2.07J).mra": {
-      "hash": "188bbad8c025a04d6586209899dc23ab",
-      "size": 1463,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Soutenryu%20%28V2.07J%29.mra"
+      "hash": "a84062dd50b65208a307d09e7fe43cb3",
+      "size": 1507,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Soutenryu%20%28V2.07J%29.mra"
     },
     "_Arcade/Space Invaders Anniversary (V2.02J).mra": {
-      "hash": "3ab80308ae639fd4df56418f52befe5e",
-      "size": 1476,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Space%20Invaders%20Anniversary%20%28V2.02J%29.mra"
+      "hash": "1e2742edc9f83a2b7a0b9f6c29308df1",
+      "size": 1520,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Space%20Invaders%20Anniversary%20%28V2.02J%29.mra"
     },
     "_Arcade/Super Puzzle Bobble (V2.05O).mra": {
-      "hash": "74cbe26721d2455006f5b46830d9c7ec",
-      "size": 1470,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Super%20Puzzle%20Bobble%20%28V2.05O%29.mra"
+      "hash": "4cf7c36480a98816311af44fbd1dcffc",
+      "size": 1683,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Super%20Puzzle%20Bobble%20%28V2.05O%29.mra"
     },
     "_Arcade/Super-X (NTC).mra": {
       "hash": "6e0f8a6a4d2156276be8c65262a5f89e",
@@ -188,24 +188,24 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/The%20Last%20Day%20%28set%201%29.mra"
     },
     "_Arcade/Usagi (V2.02J).mra": {
-      "hash": "8813812983406d4b2f2f9e4c1a35da4f",
-      "size": 1530,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Usagi%20%28V2.02J%29.mra"
+      "hash": "a0814e08c04e3e7aeccb980007aba0d2",
+      "size": 1574,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Usagi%20%28V2.02J%29.mra"
     },
     "_Arcade/XII Stag (V2.01J).mra": {
-      "hash": "61538777f8013eed37d7ff69ac1589f8",
-      "size": 1468,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/XII%20Stag%20%28V2.01J%29.mra"
+      "hash": "006667068d17b2644e9aab7d1c2ce6d1",
+      "size": 1508,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/XII%20Stag%20%28V2.01J%29.mra"
     },
     "_Arcade/Zoku Otenamihaiken (V2.03J).mra": {
-      "hash": "084ce491b127f42824f85ff3e290fc22",
-      "size": 1482,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Zoku%20Otenamihaiken%20%28V2.03J%29.mra"
+      "hash": "681bf9f83f15feb47b0ef410750541cb",
+      "size": 1526,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Zoku%20Otenamihaiken%20%28V2.03J%29.mra"
     },
     "_Arcade/Zooo (V2.01JA).mra": {
-      "hash": "978cd86b282bb71b0d2a9561e78f6bb1",
-      "size": 1431,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Zooo%20%28V2.01JA%29.mra"
+      "hash": "cebcaad7a1c5be77b93dff1b7bfe3264",
+      "size": 1475,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Zooo%20%28V2.01JA%29.mra"
     },
     "_Arcade/_alternatives/_1945k III/1945k III (Promat license, OPCX1 PCB).mra": {
       "hash": "a17f84e2628ec5e93949d5a1cfe901a7",
@@ -233,19 +233,19 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/_alternatives/_Blue%20Hawk/Blue%20Hawk%20%28Japan%2C%20NTC%20license%2C%20set%202%29.mra"
     },
     "_Arcade/_alternatives/_Chaos Heat/Chaos Heat (V2.08J) (first boot).mra": {
-      "hash": "5c24e41529864560d6cc06d6e3b25319",
-      "size": 1548,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Chaos%20Heat/Chaos%20Heat%20%28V2.08J%29%20%28first%20boot%29.mra"
+      "hash": "c7609e14d6e2b43f947744c71cdf6d56",
+      "size": 1592,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Chaos%20Heat/Chaos%20Heat%20%28V2.08J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Chaos Heat/Chaos Heat (V2.08J).mra": {
-      "hash": "b65d9b3126e58aaeca3c28fb4e5f72d0",
-      "size": 1490,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Chaos%20Heat/Chaos%20Heat%20%28V2.08J%29.mra"
+      "hash": "9a7da4ad267b59691cbd3b74601ea430",
+      "size": 1534,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Chaos%20Heat/Chaos%20Heat%20%28V2.08J%29.mra"
     },
     "_Arcade/_alternatives/_Chaos Heat/Chaos Heat (V2.09O) (first boot).mra": {
-      "hash": "bae3faac9028d43848d1d2a521508984",
-      "size": 1543,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Chaos%20Heat/Chaos%20Heat%20%28V2.09O%29%20%28first%20boot%29.mra"
+      "hash": "806efbf50a337e36b4698e32aec6ff20",
+      "size": 1587,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Chaos%20Heat/Chaos%20Heat%20%28V2.09O%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Final Star Force/Final Star Force (Japan, set 1).mra": {
       "hash": "b3d71ea00a902e92d383c784acce8de9",
@@ -263,9 +263,9 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Tecmo16_MiSTer/449291ffea25c484bd995532704e7cbb257a5fcc/releases/_alternatives/_Final%20Star%20Force/Final%20Star%20Force%20%28World-%29.mra"
     },
     "_Arcade/_alternatives/_Flip Maze/Flip Maze (V2.04J) (first boot).mra": {
-      "hash": "545d0f7a29a9207e2a3f724787f164da",
-      "size": 1528,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Flip%20Maze/Flip%20Maze%20%28V2.04J%29%20%28first%20boot%29.mra"
+      "hash": "ee74c13c1e871fbb659a0883a5e7fd63",
+      "size": 1572,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Flip%20Maze/Flip%20Maze%20%28V2.04J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Flying Tiger/Flying Tiger (set 2).mra": {
       "hash": "18c38e99b9d3949b3a546d7099a8dd17",
@@ -273,19 +273,19 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/_alternatives/_Flying%20Tiger/Flying%20Tiger%20%28set%202%29.mra"
     },
     "_Arcade/_alternatives/_Go By RC/Go By RC (V2.03O) (first boot).mra": {
-      "hash": "6312743cdb12d28d05547ec13fd02017",
-      "size": 1523,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Go%20By%20RC/Go%20By%20RC%20%28V2.03O%29%20%28first%20boot%29.mra"
+      "hash": "7886b36f4fc2850b547cd2bb9518bc71",
+      "size": 1567,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Go%20By%20RC/Go%20By%20RC%20%28V2.03O%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Go By RC/RC De Go (V2.03J) (first boot).mra": {
-      "hash": "4f94ec506eef2b4f8c171f34a8339a55",
-      "size": 1523,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Go%20By%20RC/RC%20De%20Go%20%28V2.03J%29%20%28first%20boot%29.mra"
+      "hash": "82de7c51aff65edef6920a9e1f610f8a",
+      "size": 1567,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Go%20By%20RC/RC%20De%20Go%20%28V2.03J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Go By RC/RC De Go (V2.03J).mra": {
-      "hash": "bac352ee1b4e3eb816bb0ba8e1ba6b78",
-      "size": 1459,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Go%20By%20RC/RC%20De%20Go%20%28V2.03J%29.mra"
+      "hash": "34626d9201fc9be8f9d01d6ba0e44a29",
+      "size": 1503,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Go%20By%20RC/RC%20De%20Go%20%28V2.03J%29.mra"
     },
     "_Arcade/_alternatives/_Gondomania/Gondomania (US).mra": {
       "hash": "2427dd3fb39c09e00beef3aaad906ae5",
@@ -323,14 +323,14 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/_alternatives/_Gun%20Dealer%20%2794/Primella%20%28Japan%2C%20NTC%20license%29.mra"
     },
     "_Arcade/_alternatives/_Kollon/Kollon (V2.04JA) (first boot).mra": {
-      "hash": "a61229869d585de1a088efc8aa43d4ca",
-      "size": 1509,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Kollon/Kollon%20%28V2.04JA%29%20%28first%20boot%29.mra"
+      "hash": "73d78d66102245a6da05beed1a4735ae",
+      "size": 1553,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Kollon/Kollon%20%28V2.04JA%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Kollon/Kollon (V2.04JC).mra": {
-      "hash": "dc500bbe7253d480ac337ceb42e7c509",
-      "size": 1452,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Kollon/Kollon%20%28V2.04JC%29.mra"
+      "hash": "d9f639710ba55dd9fe5624d299157fff",
+      "size": 1496,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Kollon/Kollon%20%28V2.04JC%29.mra"
     },
     "_Arcade/_alternatives/_Last Mission/Last Mission (Japan).mra": {
       "hash": "8f01eec0256f688862f04c203769a594",
@@ -348,24 +348,24 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-DEC8_MiSTer/373e483423efaa0d37a751f9ff35dc4b549e6780/releases/_alternatives/_Last%20Mission/Last%20Mission%20%28US%20revision%206%29.mra"
     },
     "_Arcade/_alternatives/_Mahjong Oh/Mahjong Oh (V2.06J) (first boot).mra": {
-      "hash": "181808aa69068ebb88a0e2e4e52f2c72",
-      "size": 1646,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Mahjong%20Oh/Mahjong%20Oh%20%28V2.06J%29%20%28first%20boot%29.mra"
+      "hash": "191dcc02247059a2c5687c1bac4288e0",
+      "size": 1690,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Mahjong%20Oh/Mahjong%20Oh%20%28V2.06J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Night Raid/Night Raid (V2.03J) (first boot).mra": {
-      "hash": "39d0ca33c11823bc99a091b312bbddd5",
-      "size": 1524,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Night%20Raid/Night%20Raid%20%28V2.03J%29%20%28first%20boot%29.mra"
+      "hash": "b80564eff765a2db9d1f953aa572f429",
+      "size": 1557,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Night%20Raid/Night%20Raid%20%28V2.03J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Otenami Haiken/Otenami Haiken (V2.04J) (first boot).mra": {
-      "hash": "e4587cf1bfba79ccb9db575120f47131",
-      "size": 1531,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Otenami%20Haiken/Otenami%20Haiken%20%28V2.04J%29%20%28first%20boot%29.mra"
+      "hash": "f376b8b62440a16ad772053f33ef7cc8",
+      "size": 1575,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Otenami%20Haiken/Otenami%20Haiken%20%28V2.04J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Otenki Kororin/Otenki Kororin (V2.01J) (first boot).mra": {
-      "hash": "8a6c277157394eb4e1e72a9861a3d65c",
-      "size": 1517,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Otenki%20Kororin/Otenki%20Kororin%20%28V2.01J%29%20%28first%20boot%29.mra"
+      "hash": "36990605715371da235eecb979356b90",
+      "size": 1561,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Otenki%20Kororin/Otenki%20Kororin%20%28V2.01J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Pollux/Pollux (Japan, NTC license, distributed by Atlus).mra": {
       "hash": "92012226d6a333e3cecdc5e40e7afbde",
@@ -383,24 +383,24 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/_alternatives/_Pollux/Pollux%20%28set%203%29.mra"
     },
     "_Arcade/_alternatives/_Psyvariar -Medium Unit-/Psyvariar -Medium Unit- (V2.02O) (first boot).mra": {
-      "hash": "6c8f6e955de3300f117edda42a9d56ac",
-      "size": 1542,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Psyvariar%20-Medium%20Unit-/Psyvariar%20-Medium%20Unit-%20%28V2.02O%29%20%28first%20boot%29.mra"
+      "hash": "6f66f6ecea12ab97d09bbbecced68179",
+      "size": 1586,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Psyvariar%20-Medium%20Unit-/Psyvariar%20-Medium%20Unit-%20%28V2.02O%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Psyvariar -Medium Unit-/Psyvariar -Medium Unit- (V2.04J) (first boot).mra": {
-      "hash": "bd70703eb091b447cb3f8c561e068cbb",
-      "size": 1542,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Psyvariar%20-Medium%20Unit-/Psyvariar%20-Medium%20Unit-%20%28V2.04J%29%20%28first%20boot%29.mra"
+      "hash": "d1f03201f7d7e997c0e5e6c153850185",
+      "size": 1586,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Psyvariar%20-Medium%20Unit-/Psyvariar%20-Medium%20Unit-%20%28V2.04J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Psyvariar -Medium Unit-/Psyvariar -Medium Unit- (V2.04J).mra": {
-      "hash": "e3d0ee07c9eac82916548f22a9c766d5",
-      "size": 1482,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Psyvariar%20-Medium%20Unit-/Psyvariar%20-Medium%20Unit-%20%28V2.04J%29.mra"
+      "hash": "b7a10842386991a36aed94eeedc344b3",
+      "size": 1526,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Psyvariar%20-Medium%20Unit-/Psyvariar%20-Medium%20Unit-%20%28V2.04J%29.mra"
     },
     "_Arcade/_alternatives/_Psyvariar -Revision-/Psyvariar -Revision- (V2.04J) (first boot).mra": {
-      "hash": "789aa9b8bace5d552f89b9a332268464",
-      "size": 1539,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Psyvariar%20-Revision-/Psyvariar%20-Revision-%20%28V2.04J%29%20%28first%20boot%29.mra"
+      "hash": "bb6c5794cbe481fa93671f0b69a428e5",
+      "size": 1583,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Psyvariar%20-Revision-/Psyvariar%20-Revision-%20%28V2.04J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_R-Shark/R-Shark (set 2).mra": {
       "hash": "2873baf420fa82ec276e9cd3173be3b0",
@@ -408,19 +408,19 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/_alternatives/_R-Shark/R-Shark%20%28set%202%29.mra"
     },
     "_Arcade/_alternatives/_Ray Crisis/Ray Crisis (V2.03J) (first boot).mra": {
-      "hash": "e838b643ee59088df9227f284c143410",
-      "size": 1523,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Ray%20Crisis/Ray%20Crisis%20%28V2.03J%29%20%28first%20boot%29.mra"
+      "hash": "986078d1ce1b7c6c6f857da5076d0fb6",
+      "size": 1567,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Ray%20Crisis/Ray%20Crisis%20%28V2.03J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Ray Crisis/Ray Crisis (V2.03J).mra": {
-      "hash": "91de46685bd1559ab1072db301c8d4a1",
-      "size": 1463,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Ray%20Crisis/Ray%20Crisis%20%28V2.03J%29.mra"
+      "hash": "6b35a167e613d1ec67bf8c3838338a2f",
+      "size": 1507,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Ray%20Crisis/Ray%20Crisis%20%28V2.03J%29.mra"
     },
     "_Arcade/_alternatives/_Ray Crisis/Ray Crisis (V2.03O) (first boot).mra": {
-      "hash": "2992e7f223f1b96648959a584fc0062b",
-      "size": 1518,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Ray%20Crisis/Ray%20Crisis%20%28V2.03O%29%20%28first%20boot%29.mra"
+      "hash": "342c3a341070028af25f58488d7ce58e",
+      "size": 1562,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Ray%20Crisis/Ray%20Crisis%20%28V2.03O%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Riot/Riot (Woong Bi).mra": {
       "hash": "45cdbaabc80bebd61754732ad3b12e20",
@@ -438,54 +438,54 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-DEC8_MiSTer/373e483423efaa0d37a751f9ff35dc4b549e6780/releases/_alternatives/_SRD%20Super%20Real%20Darwin/SRD%20-%20Super%20Real%20Darwin%20%28Japan%2C%20bootleg%29.mra"
     },
     "_Arcade/_alternatives/_Shanghai Sangokuhai Tougi/Shanghai Sangokuhai Tougi (Ver 2.01J) (first boot).mra": {
-      "hash": "fd3636dfae3b17b2d1151fc310d72e44",
-      "size": 1560,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Shanghai%20Sangokuhai%20Tougi/Shanghai%20Sangokuhai%20Tougi%20%28Ver%202.01J%29%20%28first%20boot%29.mra"
+      "hash": "c07f3679fc4a83542b03d31dcbf6e55f",
+      "size": 1604,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Shanghai%20Sangokuhai%20Tougi/Shanghai%20Sangokuhai%20Tougi%20%28Ver%202.01J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Shanghai Shoryu Sairin/Shanghai Shoryu Sairin (V2.03J) (first boot).mra": {
-      "hash": "1c1db317ddc6b334ed892a326839c59a",
-      "size": 1536,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Shanghai%20Shoryu%20Sairin/Shanghai%20Shoryu%20Sairin%20%28V2.03J%29%20%28first%20boot%29.mra"
+      "hash": "777ba778525a7cf3a906290eb2b75400",
+      "size": 1580,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Shanghai%20Shoryu%20Sairin/Shanghai%20Shoryu%20Sairin%20%28V2.03J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Shikigami no Shiro/Shikigami no Shiro (V2.03J) (first boot).mra": {
-      "hash": "2316ae61becb4649e433eab01e162303",
-      "size": 1549,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Shikigami%20no%20Shiro/Shikigami%20no%20Shiro%20%28V2.03J%29%20%28first%20boot%29.mra"
+      "hash": "57ab1aef3ee18b0fba9952b867d228db",
+      "size": 1593,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Shikigami%20no%20Shiro/Shikigami%20no%20Shiro%20%28V2.03J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Shikigami no Shiro/Shikigami no Shiro - internal build (V1.02J) (first boot).mra": {
-      "hash": "d6a3f44aff123aab977ed00998bd71e4",
-      "size": 1571,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Shikigami%20no%20Shiro/Shikigami%20no%20Shiro%20-%20internal%20build%20%28V1.02J%29%20%28first%20boot%29.mra"
+      "hash": "6955262bdde47974ea2dd15cedc78fa8",
+      "size": 1615,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Shikigami%20no%20Shiro/Shikigami%20no%20Shiro%20-%20internal%20build%20%28V1.02J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Shikigami no Shiro/Shikigami no Shiro - internal build (V1.02J).mra": {
-      "hash": "4885d8f0eb7feaf9621fa0b65d4d4ffb",
-      "size": 1513,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Shikigami%20no%20Shiro/Shikigami%20no%20Shiro%20-%20internal%20build%20%28V1.02J%29.mra"
+      "hash": "adb6e4c3bcbbcd795b7e0dc625960eff",
+      "size": 1557,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Shikigami%20no%20Shiro/Shikigami%20no%20Shiro%20-%20internal%20build%20%28V1.02J%29.mra"
     },
     "_Arcade/_alternatives/_Soutenryu/Soutenryu (V2.07J) (first boot).mra": {
-      "hash": "96b101a450037ab365e4efc4e717a086",
-      "size": 1523,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Soutenryu/Soutenryu%20%28V2.07J%29%20%28first%20boot%29.mra"
+      "hash": "e5fa59e649ebc1aeb7fb4112e696d469",
+      "size": 1567,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Soutenryu/Soutenryu%20%28V2.07J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Space Invaders Anniversary/Space Invaders Anniversary (V2.02J) (first boot).mra": {
-      "hash": "cc8207271113d104483fca823b65439b",
-      "size": 1538,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Space%20Invaders%20Anniversary/Space%20Invaders%20Anniversary%20%28V2.02J%29%20%28first%20boot%29.mra"
+      "hash": "373ec10d29d86daf87a61b9dde45a586",
+      "size": 1582,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Space%20Invaders%20Anniversary/Space%20Invaders%20Anniversary%20%28V2.02J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Super Puzzle Bobble/Super Puzzle Bobble (V2.04J) (first boot).mra": {
-      "hash": "d0218bce5c56cc59a61957391d57c35a",
-      "size": 1535,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Super%20Puzzle%20Bobble/Super%20Puzzle%20Bobble%20%28V2.04J%29%20%28first%20boot%29.mra"
+      "hash": "78c956d3c4a29f6c37ece3dd42392616",
+      "size": 1579,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Super%20Puzzle%20Bobble/Super%20Puzzle%20Bobble%20%28V2.04J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Super Puzzle Bobble/Super Puzzle Bobble (V2.04J).mra": {
-      "hash": "5b793809f33e201de852c72e4fd90ff3",
-      "size": 1477,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Super%20Puzzle%20Bobble/Super%20Puzzle%20Bobble%20%28V2.04J%29.mra"
+      "hash": "bcb982a21b49744c8398fab67e0c6836",
+      "size": 1521,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Super%20Puzzle%20Bobble/Super%20Puzzle%20Bobble%20%28V2.04J%29.mra"
     },
     "_Arcade/_alternatives/_Super Puzzle Bobble/Super Puzzle Bobble (V2.05O) (first boot).mra": {
-      "hash": "39c27237d691e4e5d2af0f0ca3657651",
-      "size": 1530,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Super%20Puzzle%20Bobble/Super%20Puzzle%20Bobble%20%28V2.05O%29%20%28first%20boot%29.mra"
+      "hash": "9cc47b40443cb13124a7db3379eff6f1",
+      "size": 1743,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Super%20Puzzle%20Bobble/Super%20Puzzle%20Bobble%20%28V2.05O%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Super-X/Super-X (Mitchell).mra": {
       "hash": "f19428bbee90b06a3287398964b8c019",
@@ -503,34 +503,34 @@
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/_alternatives/_The%20Last%20Day/The%20Last%20Day%20%28set%202%29.mra"
     },
     "_Arcade/_alternatives/_Usagi/Usagi (V2.02J) (first boot).mra": {
-      "hash": "e2b1771f43cb481996e95ed242caaef3",
-      "size": 1596,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Usagi/Usagi%20%28V2.02J%29%20%28first%20boot%29.mra"
+      "hash": "dc23dbba9039890b60a8145929b82950",
+      "size": 1640,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Usagi/Usagi%20%28V2.02J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_XII Stag/XII Stag (V2.01J) (first boot).mra": {
-      "hash": "a72cb40b739802e1d59c88f300d41217",
-      "size": 1530,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_XII%20Stag/XII%20Stag%20%28V2.01J%29%20%28first%20boot%29.mra"
+      "hash": "063f774af9565ecb99f71aa4bc2b2fb2",
+      "size": 1570,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_XII%20Stag/XII%20Stag%20%28V2.01J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Zoku Otenamihaiken/Zoku Otenamihaiken (V2.03J) (first boot).mra": {
-      "hash": "e809c34edf0f78b1e8432c41923596bf",
-      "size": 1540,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Zoku%20Otenamihaiken/Zoku%20Otenamihaiken%20%28V2.03J%29%20%28first%20boot%29.mra"
+      "hash": "218ff164daab68118287b041ab4099fa",
+      "size": 1584,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Zoku%20Otenamihaiken/Zoku%20Otenamihaiken%20%28V2.03J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Zoku Otenamihaiken/Zoku Otenamihaiken (V2.05J) (first boot).mra": {
-      "hash": "56c4247f2b4174fb9815a1885fba739d",
-      "size": 1535,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Zoku%20Otenamihaiken/Zoku%20Otenamihaiken%20%28V2.05J%29%20%28first%20boot%29.mra"
+      "hash": "4cd5b3458fdb3ce83760dc74b5d2a793",
+      "size": 1579,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Zoku%20Otenamihaiken/Zoku%20Otenamihaiken%20%28V2.05J%29%20%28first%20boot%29.mra"
     },
     "_Arcade/_alternatives/_Zoku Otenamihaiken/Zoku Otenamihaiken (V2.05J).mra": {
-      "hash": "8d122daacd6aaddc4b63ff811c7dce9e",
-      "size": 1475,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Zoku%20Otenamihaiken/Zoku%20Otenamihaiken%20%28V2.05J%29.mra"
+      "hash": "9225fcab8dcf9940f4f4414f4daf89ca",
+      "size": 1519,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Zoku%20Otenamihaiken/Zoku%20Otenamihaiken%20%28V2.05J%29.mra"
     },
     "_Arcade/_alternatives/_Zooo/Zooo (V2.01JA) (first boot).mra": {
-      "hash": "b89f2d8e6077df44b374e0961759ab2d",
-      "size": 1499,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/_alternatives/_Zooo/Zooo%20%28V2.01JA%29%20%28first%20boot%29.mra"
+      "hash": "d82eb0d95c0b30f794cdb52e1a702dff",
+      "size": 1543,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/_alternatives/_Zooo/Zooo%20%28V2.01JA%29%20%28first%20boot%29.mra"
     },
     "_Arcade/cores/1945kIII_20261006.rbf": {
       "hash": "cd1a1c9ba8eec65c0d57540af6af4132",
@@ -547,10 +547,10 @@
       "size": 4104296,
       "url": "https://raw.githubusercontent.com/shmupfan/Arcade-Dooyong_MiSTer/8f261968bd4dba40a359580fce1e913276a0f171/releases/Arcade-Dooyong_20261006.rbf"
     },
-    "_Arcade/cores/TaitoGNET_20261015.rbf": {
-      "hash": "a4e2f4cdcdc0fb0aed36d63e3a8ece3c",
-      "size": 4389400,
-      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/325f9558eee93a1212a2b7026aced6e3554f054e/releases/Arcade-TaitoGNET_20261015.rbf"
+    "_Arcade/cores/TaitoGNET_20261022.rbf": {
+      "hash": "c4cbe300a3540a7cb9c047177ea9b2b1",
+      "size": 4325048,
+      "url": "https://raw.githubusercontent.com/shmupfan/Arcade-TaitoGNET_MiSTer/9742fd644569efc37014a338b5337b356f44dc91/releases/Arcade-TaitoGNET_20261022.rbf"
     },
     "_Arcade/cores/Tecmo16_20261006.rbf": {
       "hash": "6509126f54bfe21b4589c16487cd295f",
